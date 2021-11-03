@@ -5,12 +5,12 @@ im a programming hobbyist, i primarily use c#, ts, js, rust, lua, go in my proje
 as of the moment, im learning RE, c++ and assembly.
 
 ## projects
-- [https://github.com/elys1a/spotdl-wrapper](spotdl-wrapper) - [https://github.com/spotDL/spotify-downloader](SpotDL) wrapper for Node.js
+- [spotdl-wrapper](https://github.com/elys1a/spotdl-wrapper) - [SpotDL](https://github.com/spotDL/spotify-downloader) wrapper for Node.js
 
 (Some of my projects are private)
 
 ## contact
 - discord: elysia#5144
-- mail: [mailto://elysia.dev@pm.me](elysia.dev@pm.me)
+- mail: [elysia.dev@pm.me](mailto://elysia.dev@pm.me)
 
 
